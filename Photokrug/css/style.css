@@ -1,0 +1,193 @@
+body {
+  margin: 0;
+}
+.header {
+  background-color: hsl(0, 0%, 16%);
+  padding-left: 110px;
+  padding-top: 47px;
+}
+
+.logo_header {
+  cursor: pointer;
+  float: left;
+  padding-bottom: 25px;
+  padding-left: 120px;
+}
+
+.text_heager {
+  text-decoration: none;
+  cursor: pointer;
+  padding-left: 150px;
+  font-size: 45px;
+  color: white;
+}
+
+.text_heager:hover {
+  text-decoration: underline;
+}
+
+.About_us_h2 {
+  padding-left: 50%;
+  padding-top: 200px;
+  font-size: 28px;
+  color: white;
+}
+
+.About_us_text {
+  padding-left: 42%;
+  font-size: 50px;
+  color: white;
+  padding-bottom: 185px;
+}
+
+.a {
+  text-decoration: none;
+  color: white;
+}
+
+.a:hover {
+  text-decoration: underline white;
+}
+
+#winter {
+  padding-left: 6px;
+  width: 450px;
+  height: 406px;
+  padding-right: 8px;
+  padding-bottom: 15px;
+  padding-top: 15px;
+}
+
+.sad {
+  width: 700px;
+  height: 415px;
+  padding-left: 10px;
+  padding-bottom: 6px;
+}
+
+.photoBookP {
+  text-decoration: underline;
+  cursor: pointer;
+  font-size: 100px;
+  padding-left: 42%;
+}
+
+.photo1 {
+  text-decoration: underline;
+  cursor: pointer;
+  font-size: 100px;
+  padding-left: 35%;
+  border-radius: 25px;
+}
+
+#video1 {
+  text-decoration: underline;
+  cursor: pointer;
+  font-size: 100px;
+  padding-left: 42%;
+}
+
+#Pdance {
+  text-decoration: underline;
+  cursor: pointer;
+  font-size: 100px;
+  padding-left: 42%;
+}
+
+#Psad {
+  text-decoration: underline;
+  cursor: pointer;
+  font-size: 100px;
+  padding-left: 40.5%;
+}
+
+.PHOTObOOKvIDEO {
+  padding-left: 15px;
+}
+
+.photoo {
+  width: 600px;
+  padding-left: 30px;
+}
+
+.photoo1 {
+  width: 566px;
+  padding-left: 30px;
+}
+
+.iframe {
+  padding-left: 15px;
+}
+
+.iframe1 {
+  padding-left: 4px;
+  border-radius: 25px;
+}
+
+#two {
+  text-decoration: white;
+}
+
+#three {
+  text-decoration: white;
+}
+
+#four {
+  text-decoration: white;
+}
+
+#five {
+  text-decoration: white;
+}
+
+#six {
+  text-decoration: white;
+}
+
+.tworad {
+  width: 620px;
+  height: 406px;
+  padding-left: 10px;
+  padding-bottom: 6px;
+}
+
+#igor {
+  width: 450px;
+  height: 406px;
+  padding-left: 10px;
+  padding-bottom: 6px;
+}
+
+.giperss {
+  font-size: 50px;
+  text-decoration: none;
+  color: rgb(69, 102, 121);
+  padding-left: 25px;
+}
+
+.photoigor {
+ float: right;
+ width: 70px;
+ padding-top: 7px;
+ padding-right: 15px;
+
+}
+
+.igorkr {
+  font-size: 50px;
+  text-decoration: none;
+  color: white;
+
+  padding-left: 25px;
+}
+
+.foot {
+  padding-top: 30px;
+  background-color: hsl(0, 0%, 16%);
+  padding-bottom: 50px;
+}
+
+.olena {
+  padding-top: 20px;
+  padding-bottom: 5px;
+}
